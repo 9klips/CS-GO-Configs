@@ -1,7 +1,7 @@
 # Useful settings to improve CS: GO experience.
 
-* [Steam Taskbar Preferences & CS: GO Properties](https://imgur.com/a/uARPeaA)
 * Check [✔] Disable fullscreen optimization for all games. If not disabled, it will make your game run in boderless fullscreen mode which drops fps & increase input lag
+* [Steam Taskbar Preferences, CS: GO Properties & Windows 10 visual effects settings](https://imgur.com/a/uARPeaA)
 * [Make CS: GO 4:3 stretched](https://youtu.be/WtQTdujoeuI)
 * [NVIDIA Settings](https://youtu.be/GR_OpkOPxxc)
 * [VibranceGUI](https://vibrancegui.com/) --> 85% on DCH & 100% on Standard Nvidia Driver
@@ -12,8 +12,8 @@
 * [Disable mouse acceleration completely from registry](https://www.youtube.com/watch?v=YZBuNfQGuE4)
 * [Miscellaneous Softwares](https://drive.google.com/open?id=1ku46gLwVWcAz95wkEHg2mAbn2ormmNqv)
 * Manually bind `/` in CS: GO game settings to toggle Console
-* [CS: GO Radar](http://simpleradar.com/) **[DO BACKUP ORIGINAL FILES]**
-* Control Panel->Sounds->Playback->Properties of Headphone->Enhancements->Check Loudness Equalization
 * [CS: GO Video Settings](https://steamcommunity.com/sharedfiles/filedetails/?id=1247061744) & [video](cfg/video.txt)
+* [CS: GO Radar](http://simpleradar.com/) **[DO BACKUP ORIGINAL FILES]**
+* Open Control Panel -> Sounds -> Playback -> `Properties` of Headphone -> Enhancements -> Check [✔] Loudness Equalization [Increases & decreases ingame low and high volumes resp.]
 * [CS: GO Fonts](https://fonts.spddl.de/) --> [How to install it but 1st BACKUP original files](https://www.youtube.com/watch?v=KlkA4l0r6Po) ***[OUTDATED]***
-* [Surf aweles map](https://drive.google.com/drive/folders/1x228KZ6xV_V_oyz910QrHD_LR2NmyVK0)
+* [Surf Aweles Map](https://drive.google.com/drive/folders/1x228KZ6xV_V_oyz910QrHD_LR2NmyVK0)
