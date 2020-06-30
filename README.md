@@ -15,10 +15,10 @@ This will execute all the commands in the config file.
 > +exec 9klips.cfg -novid -tickrate 128 -high +cl_forcepreload 1 -nojoy +clientport 27005 -no-browser -language textcolormod
 
 ## General CS: GO Settings :-
-- **Resolution:**                                  1024x768 - 4:3 60Hz
-- **Windows Sensitivity:**                  6/11
-- **Enhance Pointer Precision:**        Off
-- **Mouse DPI:**                                  400
-- **Ingame Sensitivity:**                     2.2
-- **Mouse Polling Rate:**                    1000hz
-- **Mouse eDPI:**                               880
+- **Resolution:**                           1024x768 - 4:3 60Hz
+- **Windows Sensitivity:**                  6/11
+- **Enhance Pointer Precision:**            Off
+- **Mouse DPI:**                            400
+- **Ingame Sensitivity:**                   2.2
+- **Mouse Polling Rate:**                   1000hz
+- **Mouse eDPI:**                           880
