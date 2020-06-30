@@ -6,11 +6,11 @@
 
 ## How to install these configs :-
 ### Download the files inside `cfg` directory and place it here:
-> ....\Steam\userdata\<STEAMID>\730\local\cfg
+> ....\Steam\userdata\\<STEAMID>\730\local\cfg
 
 
 ## How to use these configs :-
-### In CS: GO console write `*exec <file_name>.cfg*`
+### In CS: GO console write: `exec <file_name>.cfg`
 This will execute all the commands in the config file.
 
 
@@ -19,7 +19,7 @@ This will execute all the commands in the config file.
 
 
 ## General CS: GO Settings :-
-- **Resolution:**                 1024x768 - 4:3 60Hz
+- **Resolution:**                 1024x768 - 4:3 60Hz
 - **Windows Sensitivity:**        6/11
 - **Enhance Pointer Precision:**  Off
 - **Mouse DPI:**                  400
