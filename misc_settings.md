@@ -3,7 +3,7 @@
 * Check [✔] Disable fullscreen optimization for all games. If not disabled, it will make your game run in boderless fullscreen mode which drops fps & increase input lag
 * [Steam Taskbar Preferences, CS: GO Properties & Windows 10 visual effects settings](https://imgur.com/a/uARPeaA)
 * [Make CS: GO 4:3 stretched](https://youtu.be/WtQTdujoeuI)
-* [NVIDIA Settings](https://youtu.be/GR_OpkOPxxc)
+* [NVIDIA Settings](https://youtu.be/hNmJ0NQDXmM)
 * [VibranceGUI](https://vibrancegui.com/) --> 85% on DCH & 100% on Standard Nvidia Driver
 * [Text Color Mod](https://bananagaming.tv/textcolormod.php) & rename PLAY OPTIONS
 * [CS: GO Launch Options](https://github.com/9klips/CS-GO-Configs/blob/master/README.md#csgo-launch-options--)
