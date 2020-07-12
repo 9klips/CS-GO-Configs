@@ -5,7 +5,7 @@
 
 ## How to install these configs :-
 ### Download the files inside [cfg](cfg/) directory and place it here:
-> ....\Steam\userdata\<STEAM_ID>\730\local\cfg
+> ....\Steam\userdata\\<STEAM_ID>\730\local\cfg
 
 ## How to use these configs :-
 ### In CS: GO console write: `exec <file_name>.cfg`
