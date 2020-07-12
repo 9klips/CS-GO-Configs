@@ -10,6 +10,7 @@
 ## How to use these configs :-
 ### In CS: GO console write: `exec <file_name>.cfg`
 This will execute all the commands in the config file.
+Then goto [misc_settings.md](misc_settings.md/) and follow those settings for better CS: GO experience.
 
 ## CS:GO Launch Options :-
 > +exec 9klips.cfg -novid -tickrate 128 -high +cl_forcepreload 1 -nojoy +clientport 27005 -no-browser -language textcolormod
