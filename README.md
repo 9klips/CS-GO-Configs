@@ -21,5 +21,5 @@ Then goto [misc_settings.md](misc_settings.md/) and follow those settings for be
 - **Enhance Pointer Precision:**            Off
 - **Mouse DPI:**                            400
 - **Ingame Sensitivity:**                   2.2
-- **Mouse Polling Rate:**                   1000hz
+- **Mouse Polling Rate:**                   1000 Hz
 - **Mouse eDPI:**                           880
