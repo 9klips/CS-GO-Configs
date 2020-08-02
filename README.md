@@ -36,11 +36,11 @@ Then goto [misc_settings.md](misc_settings.md/) and follow those settings for be
 - **Global Shadow Quality Very:**           Low
 - **Model / Texture Details:**              Low
 - **Texture Streaming:**                    Enable
-- **Effect Detail:**                        Low
-- **Shader Detail:**                        Low
-- **Boost Player Contrast:**                Disabled
-- **Multicore Rendering:**                  Enable
-- **Multisampling Anti-Aliasing Mode:**     None
-- **Texture Filtering Mode:**               Bilinear
-- **Wait for Vertical Sync:**               Disabled
-- **Motion Blur:**                          Disabled
+- **Effect Detail:**                     Low
+- **Shader Detail:**                     Low
+- **Boost Player Contrast:**             Disabled
+- **Multicore Rendering:**               Enable
+- **Multisampling Anti-Aliasing Mode:**  None
+- **Texture Filtering Mode:**            Bilinear
+- **Wait for Vertical Sync:**            Disabled
+- **Motion Blur:**                       Disabled
