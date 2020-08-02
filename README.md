@@ -15,11 +15,32 @@ Then goto [misc_settings.md](misc_settings.md/) and follow those settings for be
 ## CS:GO Launch Options :-
 > +exec 9klips.cfg -novid -tickrate 128 -high +cl_forcepreload 1 -nojoy +clientport 27005 -no-browser -language textcolormod
 
-## General CS: GO Settings :-
-- **Resolution:**                           1024x768 - 4:3 Stretched
+## Mouse Settings :-
 - **Windows Sensitivity:**                  6/11
 - **Enhance Pointer Precision:**            Off
 - **Mouse DPI:**                            400
 - **Ingame Sensitivity:**                   2.2
+- **Zoom Sensitivity:**                     1
 - **Mouse Polling Rate:**                   1000 Hz
-- **Mouse eDPI:**                           880
+- **eDPI:**                                 880
+- **Raw Input:**                            ON
+- **Mouse Acceleration:**                   OFF
+- **360° Distance:**                        ... cm [from center of mouse]
+
+## Video Settings :-
+- **Brightness:**                           80%
+- **Color Mode:**                           Computer Monitor
+- **Aspect Ratio:**                         4:3
+- **Resolution:**                           1024x768 [Stretched]
+- **Display Mode:**                         Fullscreen
+- **Global Shadow Quality Very:**           Low
+- **Model / Texture Details:**              Low
+- **Texture Streaming:**                    Enable
+- **Effect Detail:**                        Low
+- **Shader Detail:**                        Low
+- **Boost Player Contrast:**                Disabled
+- **Multicore Rendering:**                  Enable
+- **Multisampling Anti-Aliasing Mode:**     None
+- **Texture Filtering Mode:**               Bilinear
+- **Wait for Vertical Sync:**               Disabled
+- **Motion Blur:**                          Disabled
