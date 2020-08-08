@@ -17,36 +17,36 @@ Then goto [misc_settings.md](misc_settings.md/) and follow those settings for be
 
 ## Mouse Settings :-
 <pre>
-- **Windows Sensitivity:**                        6/11
-- **Enhance Pointer Precision:**                  Off
-- **Mouse DPI:**                                  400
-- **Ingame Sensitivity:**                         2.2
-- **Zoom Sensitivity:**                           1
-- **Mouse Polling Rate:**                         1000 Hz
-- **eDPI:**                                       880
-- **Raw Input:**                                  ON
-- **Mouse Acceleration:**                         OFF
-- **360° Distance:**                              44 cm [from center of mouse]
+• Windows Sensitivity:                        6/11
+• Enhance Pointer Precision:                  Off
+• Mouse DPI:                                  400
+• Ingame Sensitivity:                         2.2
+• Zoom Sensitivity:                           1
+• Mouse Polling Rate:                         1000 Hz
+• eDPI:                                       880
+• Raw Input:                                  ON
+• Mouse Acceleration:                         OFF
+• 360° Distance:                              44 cm [from center of mouse]
 </pre>
 
 ## Video Settings :-
 <pre>
-- **Brightness:**                                 80%
-- **Color Mode:**                                 Computer Monitor
-- **Aspect Ratio:**                               4:3
-- **Resolution:**                                 1024x768 [Stretched]
-- **Display Mode:**                               Fullscreen
-- **Global Shadow Quality Very:**                 Low
-- **Model / Texture Details:**                    Low
-- **Texture Streaming:**                          Enable
-- **Effect Detail:**                              Low
-- **Shader Detail:**                              Low
-- **Boost Player Contrast:**                      Disabled
-- **Multicore Rendering:**                        Enable
-- **Multisampling Anti-Aliasing Mode:**           None
-- **Texture Filtering Mode:**                     Bilinear
-- **Wait for Vertical Sync:**                     Disabled
-- **Motion Blur:**                                Disabled
+• Brightness:                                 80%
+• Color Mode:                                 Computer Monitor
+• Aspect Ratio:                               4:3
+• Resolution:                                 1024x768 [Stretched]
+• Display Mode:                               Fullscreen
+• Global Shadow Quality Very:                 Low
+• Model / Texture Details:                    Low
+• Texture Streaming:                          Enable
+• Effect Detail:                              Low
+• Shader Detail:                              Low
+• Boost Player Contrast:                      Disabled
+• Multicore Rendering:                        Enable
+• Multisampling Anti-Aliasing Mode:           None
+• Texture Filtering Mode:                     Bilinear
+• Wait for Vertical Sync:                     Disabled
+• Motion Blur:                                Disabled
 </pre>
 
 ## Crosshair :-
