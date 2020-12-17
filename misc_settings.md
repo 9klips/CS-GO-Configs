@@ -9,7 +9,7 @@
 * [CS: GO Launch Options](https://github.com/9klips/CS-GO-Configs/blob/master/README.md#csgo-launch-options--)
 * Open Control Panel -> Mouse -> Pointer Options & Disable ***Enhance Pointer Precision***
 * [Smoothen mouse movement](https://www.youtube.com/watch?v=77VR37F5cf0)
-* [Disable mouse acceleration completely from registry](https://www.youtube.com/watch?v=YZBuNfQGuE4)
+* [Disable mouse acceleration completely from registry](https://www.youtube.com/watch?v=YZBuNfQGuE4) [UPDATED](https://youtu.be/phWz_k2P_S4)
 * [Miscellaneous Softwares](https://drive.google.com/open?id=1ku46gLwVWcAz95wkEHg2mAbn2ormmNqv)
 * Manually bind `/` in CS: GO game settings to toggle Console
 * [CS: GO Video Settings](https://steamcommunity.com/sharedfiles/filedetails/?id=1247061744) & [video](cfg/video.txt)
